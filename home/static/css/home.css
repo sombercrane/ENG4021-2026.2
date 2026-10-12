@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #050605;
+    color: #d3e2d4;
+}
+
+header {
+    padding: 20px;
+}
+
+.topo {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    margin-right: 10px;
+}
+
+.topo h1 {
+    margin: 0;
+    font-size: 27px;
+}
+
+main {
+    padding: 20px;
+}
+
+.boas-vindas {
+    background-color: #c6dccd;
+    color: black;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+}
+
+.boas-vindas h2 {
+    margin-top: 0;
+}
+
+.barra-busca {
+    display: flex;
+    align-items: center;
+    background-color: #191407;
+    color: #a79e8d;
+    padding: 15px;
+    margin-bottom: 25px;
+    text-decoration: none;
+    border-radius: 15px;
+}
+
+.barra-busca span {
+    margin-right: 10px;
+}
+
+.seta {
+    margin-left: auto;
+}
+
+.linha-categorias {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.card {
+    width: 43%;
+    background-color: #102014;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.card h3 {
+    margin-bottom: 5px;
+}
+
+.card p {
+    font-size: 14px;
+    color: #a29b8d;
+}
+
+.mapa {
+    display: block;
+    background-color: #b9d8c3;
+    color: black;
+    text-align: center;
+    padding: 14px;
+    margin-top: 25px;
+    text-decoration: none;
+    border-radius: 15px;
+}
